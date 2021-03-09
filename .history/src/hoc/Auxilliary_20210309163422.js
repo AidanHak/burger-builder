@@ -1,0 +1,1 @@
+const auxilliary = (props) => props.children;
