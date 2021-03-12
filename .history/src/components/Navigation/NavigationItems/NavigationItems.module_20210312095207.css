@@ -9,12 +9,12 @@
 	display:flex;
 	flex-flow:column;
 	align-items:center;
-	height:auto;
+	height:100%;
 }
 
 @media (min-width: 500px) {
 	.NavigationItems ul {
 		flex-flow:row;
-		height:100%;
+		height:auto;
 	}
 }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styles from './Modal.module.css';
-import Auxilliary from '../../../hoc/Auxilliary/Auxilliary';
+import Auxilliary from '../../../hoc/Auxilliary';
 import Backdrop from '../Backdrop/Backdrop';
 
 class Modal extends Component {
